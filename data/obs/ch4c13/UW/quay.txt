@@ -1,0 +1,29 @@
+Measurements of Atmospheric Methane and 13C/12C of Atmospheric 
+Methane from Flask Air Samples
+
+June 1999
+
+Contributors:
+Paul Quay and Johnny Stutsman 
+University of Washington
+School of Oceanography
+
+Compiled by:
+Tom Boden
+Carbon Dioxide Information Analysis Center
+World Data Center-A for Atmospheric Trace Gases
+Oak Ridge National Laboratory
+U.S. Department of Energy
+Oak Ridge, Tennessee 37831-6335
+
+
+This database offers precise measurements of atmospheric methane and 
+13C/12C in atmospheric methane from flask air samples collected at eight 
+sites worldwide and aboard NOAA cruises in the Pacific Ocean. The eight 
+sites include Olympic Peninsula, Washington; Cape Grim, Tasmania; 
+Fraserdale, Ontario; Marshall Islands; Baring Head, New Zealand; 
+Mauna Loa, Hawaii; Point Barrow, Alaska; and American Samoa. The 
+measurements span the period 1988 to mid-1996. These data are
+useful for global methane budget analyses and for determining the 
+atmospheric isotopic composition of methane. All isotopic measurements 
+have been corrected for standard drift. 

@@ -1,0 +1,159 @@
+Air samples collected at Mauna Loa, USA.(19N,155W)
+
+
+SIL ID #        Identification Number used at the Stable Isotope Lab, 
+                 University of Washington.
+Date            Date that this sample was collected.
+CH4-SIL         Methane concentration (ppm) determined manometrically at SIL with 
+                 precision of ± 2%, see Quay et al. (1).
+CH4-CMDL        Methane concentration (ppm) determined by gas chromatography by NOAA/CMDL
+                 laboratory with precsion of ±0.2%, see Dlugokencky et al. (2).
+Del 13C         Measured 13C/12C in per mil (0/00) units, where
+                 del 13C(0/00) ={[(13C/12C)sample/(13C/12C)standard - 1]*1000}
+                 and the standard is VPDB, see Quay et al. (1).
+                 Del 13C (0/00) corrected for standard drift, see Quay et al. (1).
+
+
+
+SIL ID #        Date      CH4-SIL CH4-CMDL Del 13C
+TTLM0014        20-JAN-88    1.58   1.671  -47.26
+TTLM0016        20-APR-88    1.71   1.694  -47.40
+TTLM0017        6-MAY-88     1.70   1.673  -47.55
+TTLM0018        8-JUN-88     1.73   1.702  -47.39
+TTLM0019        22-JUN-88    1.69   1.671  -47.44
+TTLM0020        6-JUL-88     1.69   1.670  -47.34
+TTLM0023        25-JUL-88    1.71          -47.27
+TTLM0022        27-JUL-88    1.66   1.669  -47.33
+TTLM0024        19-AUG-88    1.70   1.666  -47.27
+TTLM0025        29-AUG-88    1.75          -47.47
+TTLM0027        2-SEP-88     1.67   1.660  -47.39
+TTLM0026        9-SEP-88     1.83   1.685  -47.46
+TTLM0028        5-OCT-88     1.68   1.666  -47.36
+TTLM0030        19-OCT-88    1.67   1.670  -47.36
+TTLM0029        4-NOV-88     1.69   1.677  -47.37
+TTLM0031        18-NOV-88    1.71   1.698  -47.48
+TTLM0032        29-NOV-88    1.70   1.690  -47.51
+TTLM0034        28-DEC-88    1.71   1.704  -47.38
+TTLM0035        25-JAN-89    1.69   1.680  -47.21
+TTLM0036        1-FEB-89     1.74   1.706  -47.41
+TTLM0037        8-FEB-89     1.70   1.684  -47.12
+TTLM0039        22-FEB-89    1.68   1.693  -47.39
+TTLM0038        10-MAR-89    1.69   1.691  -47.43
+TTLM0040        22-MAR-89    1.71   1.694  -47.46
+TTLM0042        5-APR-89     1.69   1.698  -47.30
+TTLM0041        19-APR-89    1.70   1.699  -47.45
+TTLM0043        3-MAY-89     1.67   1.681  -47.43
+TTLM0044        17-MAY-89    1.72   1.710  -47.36
+TTLM0045        2-JUN-89     1.64   1.697  -47.35
+TTLM0046        14-JUN-89    1.70          -47.32
+TTLM0047        7-JUL-89     1.80   1.685  -47.39
+TTLM0048        19-JUL-89    1.69          -47.33
+TTLM0049        9-AUG-89     1.70          -47.36
+TTLM0051        6-SEP-89     1.72          -47.40
+TTLM0052        20-SEP-89    1.72          -47.47
+TTLM0053        11-OCT-89    1.72          -47.56
+TTLM0054        25-OCT-89    1.70          -47.55
+TTLM0055        8-NOV-89     1.73          -47.53
+TTLM0056        29-NOV-89    1.72   1.694  -47.38
+TTLM0057        13-DEC-89    1.73   1.708  -47.50
+TTLM0061A       10-JAN-90    1.71   1.720  -47.54
+TTLM0059        10-JAN-90    1.75   1.720  -47.36
+TTLM0060        24-JAN-90    1.72   1.700  -47.34
+TTLM0061        7-FEB-90     1.76   1.748  -47.50
+TTLM0064        9-MAR-90     1.74          -47.05
+TTLM0063        16-MAR-90    1.75   1.740  -47.33
+TTLM0066        13-APR-90    1.72   1.700  -47.34
+TTLM0067        27-APR-90    1.74   1.712  -47.32
+TTLM0068        9-MAY-90     1.73   1.720  -47.37
+TTLM0069        25-MAY-90    1.75   1.714  -47.22
+TTLM0070        8-JUN-90     1.73   1.688  -47.28
+TTLM0071        22-JUN-90    1.71   1.698  -47.42
+TTLM0072        2-JUL-90     1.70   1.688  -47.29
+TTLM0073        25-JUL-90    1.69   1.690  -47.16
+TTLM0074        8-AUG-90     1.69   1.690  -47.36
+TTLM0075        22-AUG-90    1.70   1.707  -47.30
+TTLM0076        5-SEP-90     1.70   1.707  -47.38
+TTLM0077        14-SEP-90    1.69   1.691  -47.47
+TTLM0078        5-OCT-90     1.70   1.716  -47.38
+TTLM0079        7-NOV-90     1.73   1.724  -47.45
+TTLM0080        30-NOV-90    1.71   1.699  -47.44
+TTLM0081        2-JAN-91     1.71   1.708  -47.57
+TTLM0082        16-JAN-91    1.71   1.708  -47.41
+TTLM0083        30-JAN-91    1.72   1.713  -47.46
+TTLM0084        15-FEB-91    1.74   1.713  -47.51
+TTLM0085        1-MAR-91     1.69   1.695  -47.44
+TTLM0086        20-MAR-91    1.69          -47.50
+TTLM0087        20-MAR-91    1.71          -47.40
+TTLM0091        15-MAY-91    1.70   1.722  -47.30
+TTLM0092        29-MAY-91    1.71   1.699  -47.53
+TTLM0093        14-JUN-91    1.71   1.705  -47.24
+TTLM0096        2-AUG-91     1.71          -47.42
+TTLM0100        16-OCT-91    1.70   1.711  -47.29
+TTLM0102        24-JAN-92    1.75   1.738  -47.41
+TTLM0110        3-JUN-92     1.79   1.726  -47.25
+TTLM0108        17-JUN-92    1.75   1.715  -47.29
+TTLM0106        1-JUL-92     1.73   1.710  -47.29
+TTLM0107        5-AUG-92     1.75   1.717  -47.47
+TTLM0111        2-SEP-92     1.73   1.724  -47.41
+TTLM0115        18-SEP-92    1.78   1.734  -47.36
+TTLM0113        30-SEP-92    1.75   1.745  -47.44
+TTLM0114        4-DEC-92     1.75   1.729  -47.39
+TTLM0116        16-DEC-92    1.70          -47.33
+TTLM0118        30-DEC-92    1.76   1.734  -47.44
+TTLM0120        29-JAN-93    1.77   1.717  -47.44
+TTLM0119        19-FEB-93    1.74   1.721  -47.39
+TTLM0121        05-MAR-93    1.79   1.741  -47.42
+TTLM0123        13-MAR-93    1.76   1.733  -47.34
+TTLM0122        14-APR-93    1.72   1.732  -47.34
+TTLM0124        5-MAY-93     1.74   1.721  -47.21
+TTLM0125        28-MAY-93    1.76   1.740  -47.43
+TTLM0126        23-JUN-93    1.75   1.739  -47.20
+TTLM0129        28-JUL-93    1.81   1.736  -47.39
+TTLM0127        25-AUG-93    1.75   1.711  -47.21
+TTLM0128        17-SEP-93    1.71   1.711  -47.51
+TTLM0130        8-OCT-93     1.77   1.731  -47.38
+TTLM0131        17-NOV-93    1.80   1.749  -47.33
+TTLM0134        8-DEC-93     1.82   1.743  -47.39
+TTLM0133        29-DEC-93    1.76   1.742  -47.32
+TTLM0135        19-JAN-94    1.78   1.764  -47.36
+TTLM0137        2-FEB-94     1.75          -47.38
+TTLMO136        23-FEB-94    1.72   1.727  -47.34
+TTLM0138        16-MAR-94    1.76   1.758  -47.17
+TTLM0140        20-APR-94    1.75   1.740  -47.26
+TTLM0141        27-MAY-94    1.76   1.734  -47.21
+TTLM0143        22-JUN-94    1.73   1.720  -47.26
+TTLM0142        26-AUG-94    1.75   1.718  -47.02
+TTLM0144        21-SEP-94    1.74   1.718  -47.10
+TTLM0145        7-OCT-94     1.76          -47.35
+TTLM0148        30-NOV-94    1.77   1.744  -47.45
+TTLM0149        14-DEC-94    1.81   1.759  -47.40
+TTLM0154        22-FEB-95    1.75   1.726  -47.33
+TTLM0152        10-MAR-95    1.77   1.744  -47.22
+TTLM0153        22-MAR-95    1.77   1.737  -47.27
+TTLMO157        17-MAY-95    1.77   1.754  -47.13
+TTLM0158        7-JUN-95     1.77   1.750  -47.12
+TTLM0160        12-JUL-95    1.78   1.737  -47.36
+TTLM0161        26-JUL-95    1.73   1.722  -47.23
+TTLM0163        23-AUG-95    1.77          -47.24
+TTLMO162        31-AUG-95    1.75   1.720  -47.21
+TTLM0166        8-SEP-95     1.74          -47.26
+TTLM0165        6-OCT-95     1.78   1.756  -47.31
+TTLM0166        8-SEP-95                   -47.26
+TTLM0168        29-NOV-95    1.76   1.756  -47.35
+TTLM0169        15-DEC-95    1.75   1.744  -47.31
+TTLM0170        12-JAN-96    1.78   1.763  -47.31
+TTLM0171        24-JAN-96    1.76   1.754  -47.40
+TTLM0172        21-FEB-96    1.77   1.753  -47.46
+TTLM0173        6-MAR-96     1.77   1.754  -47.18
+TTLM0174        7-FEB-96     1.75   1.718  -47.13
+TTLM0175        29-MAR-96    1.76          -47.35
+TTLM0176        17-APR-96    1.80   1.740  -47.19
+TTLM0178        1-MAY-96     1.83          -47.15
+
+
+(1) Quay, P.D., J. Stutsman, D. Wilbur, A. Snover, E. Dlugokenky and T. Brown, (submitted),
+Isotopic Composition of Atmospheric Methane, Global Biogeochemical Cycles.
+
+(2) DLUGOKENCKY, E.J., K.A. MASARIE, P.M. LANG, P.P. TANS, L.P. Steele, and E.G. Nisbet.
+ A dramatic decrease in the growth rate of atmospheric methane in the northern hemisphere during 1992.
+ Geophysical Research Letters 20(1):45-48 (1994).

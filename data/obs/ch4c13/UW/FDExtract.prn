@@ -1,0 +1,49 @@
+Air samples collected at Fraserdale, Canada. (50°N, 82°W)
+
+
+SIL ID #      Identification Number used at the Stable Isotope Lab, 
+	       University of Washington.
+Date          Date that this sample was collected.
+CH4-SIL       Methane concentration (ppm) determined manometrically at SIL 
+	       with precision of ± 2%, see Quay et al. (1).
+Del 13C       Measured 13C/12C in per mil (0/00) units, where
+               del 13C(0/00) ={[(13C/12C)sample/(13C/12C)standard - 1]*1000}
+               and the standard is VPDB, see Quay et al. (1).
+               Del 13C (0/00) corrected for standard drift, see Quay et al. (1).
+
+
+
+SIL ID #        Date       CH4-SIL   Del 13C
+TTFM0001        29-OCT-93     1.84    -47.91
+TTFM0002        29-OCT-93     1.84    -47.89
+TTFM0003        19-NOV-93     1.86    -47.74
+TTFM0004        19-NOV-93     1.87    -47.84
+TTFM0008        15-JAN-94     1.92    -47.96
+TTFM0006        28-JAN-94     1.86    -48.12
+TTFM0005        28-JAN-94     1.90    -48.02
+TTFM0007        11-FEB-94     1.87    -47.56
+TTFM0009        18-MAR-94     1.87    -47.70
+TTFM0010        18-MAR-94     1.83    -47.75
+TTFM0014        6-MAY-94      1.84    -47.48
+TTFM0013        10-JUN-94     1.84    -47.70
+TTFM0012        28-JUL-94     1.85    -47.79
+TTFM0016        5-AUG-94      1.83    -47.64
+TTFM0015        5-AUG-94      1.87    -47.58
+TTFM0016        2-SEP-94      1.79    -47.78
+TTFM0018        30-SEP-94     1.80    -47.82
+TTFM0019        21-OCT-94     1.84    -47.99
+TTFM0020        21-OCT-94     1.81    -47.98
+TTFM0021        4-NOV-94      1.88    -47.85
+TTFM0027        2-DEC-94      1.89    -47.76
+TTFM0028        2-DEC-94      1.86    -47.30
+TTFM0026        16-DEC-94     1.92    -47.74
+TTFM0023        31-DEC-94     1.85    -47.82
+TTFM0031        10-FEB-95     1.96    -47.66
+TTFM0032        10-FEB-95     1.90    -47.76
+TTFM0029        24-FEB-95     1.87    -47.74
+TTFM0034        10-MAR-95     1.87    -47.31
+TTFM0030        17-MAR-95     1.86    -47.67
+
+
+(1) Quay, P.D., J. Stutsman, D. Wilbur, A. Snover, E. Dlugokenky and T. Brown, (submitted),
+Isotopic Composition of Atmospheric Methane, Global Biogeochemical Cycles.

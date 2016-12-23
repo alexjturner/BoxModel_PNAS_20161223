@@ -1,0 +1,58 @@
+Air samples collected at Cape Grim, Australia. (41°S, 144°E)
+
+
+SIL ID #     Identification Number used at the Stable Isotope Lab, 
+              University of Washington.
+Date         Date that this sample was collected.
+CH4-SIL      Methane concentration (ppm) determined manometrically at SIL with 
+              precision of ± 2%, see Quay et al. (1).
+CH4-CSIRO    Methane concentration (ppm) determined by gas chromatography by CSIRO,
+              see Fraser et al. (2).
+Del 13C      Measured 13C/12C in per mil (0/00) units, where
+              del 13C(0/00) ={[(13C/12C)sample/(13C/12C)standard - 1]*1000}
+              and the standard is VPDB, see Quay et al. (1).
+              Del 13C (0/00) corrected for standard drift, see Quay et al. (1).
+
+
+
+SIL ID #        Date       CH4-SIL CH4-CSIRO Del 13C
+TTNM0002        19-APR-88     1.63    NaN     -47.35
+TTNM0003        13-SEP-88     1.64    1.647   -47.25
+TTNM0004        13-SEP-88     1.64    1.647   -47.08
+TTNM0006        18-APR-89     1.63    1.624   -47.10
+TTNM0005        18-APR-89     1.65    1.624   -47.19
+TTNM0007        24-AUG-89     1.64    1.653   -47.08
+TTNM0008        24-AUG-89     1.63    1.653   -47.30
+TTNM0009        16-OCT-89     1.64    1.652   -47.28
+TTNM0014        6-MAR-90      1.65    1.635   -47.10
+TTNM0013        6-MAR-90      1.62    1.635   -47.20
+TTNM0015        26-JUN-90     1.62    1.647   -47.19
+TTNM0016        7-AUG-90      1.63    1.657   -47.24
+TTNM0017        3-OCT-90      1.62    1.662   -47.21
+TTNM0019        26-FEB-91     1.59    1.633   -47.03
+TTNM0021        15-JUL-91     1.64    1.658   -47.25
+TTNM0023        10-JUN-92     1.71    NaN     -47.02
+TTNM0024        10-JUN-92     1.70    NaN     -47.42
+TTNM0025        23-SEP-92     1.69    NaN     -47.09
+TTNM0026        23-SEP-92     1.68    NaN     -47.10
+TTNM0027        25-NOV-92     1.72    NaN     -47.27
+TTNM0028        25-NOV-92     1.69    NaN     -47.28
+TTNM0030        23-FEB-93     1.65    1.651   -47.17
+TTNM0029        23-FEB-93     1.68    1.651   -47.11
+TTNM0033        8-APR-93      1.66    1.656   -47.22
+TTNM0032        8-APR-93      1.68    1.656   -47.23
+TTNM0032A       3-MAY-93      1.92    1.661   -47.19
+TTNM0031        3-MAY-93      1.72    1.661   -47.15
+TTNM0034        22-JUN-93     1.69    1.673   -47.26
+TTNM0042        3-AUG-94      1.76    1.684   -47.09
+TTNM0047        17-FEB-95     1.69    NaN     -47.21
+TTNM0046        17-FEB-95     1.73    NaN     -47.03
+TTNM0050        9-MAR-95      1.71    NaN     -47.01
+TTNM0048        24-APR-95     1.75    NaN     -47.06
+TTNM0049        24-APR-95     1.69    NaN     -46.90
+TTNM0045        16-MAY-95     1.74    NaN     -47.00
+TTNM0052        21-SEP-95     1.73    NaN     -47.24
+TTNM0054        24-NOV-95     1.70    NaN     -46.88
+TTNM0056        22-JAN-96     1.68    NaN     -47.19
+TTNM0057        29-FEB-96     1.68    NaN     -47.02
+TTNM0058        29-FEB-96     1.68    NaN     -47.11

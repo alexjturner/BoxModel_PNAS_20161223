@@ -1,0 +1,40 @@
+Air samples collected at Majuro, Marshall Islands. (7°N,171°E)
+
+
+SIL ID #       Identification Number used at the Stable Isotope Lab, 
+                University of Washington.
+Date           Date that this sample was collected.
+CH4-SIL        Methane concentration (ppm) determined manometrically at SIL with 
+                precision of ± 2%, see Quay et al. (1).
+CH4-CMDL       Methane concentration (ppm) determined by gas chromatography by NOAA/CMDL
+                laboratory with precsion of ±0.2%, see Dlugokencky et al. (2).
+Del 13C        Measured 13C/12C in per mil (0/00) units, where
+                del 13C(0/00) ={[(13C/12C)sample/(13C/12C)standard - 1]*1000}
+                and the standard is VPDB, see Quay et al. (1).
+                Del 13C (0/00) corrected for standard drift, see Quay et al. (1).
+
+
+
+SIL ID #         Date       CH4-SIL CH4-CMDL Del 13C
+TTIM0001         26-10-90     1.69   1.673  -47.27
+TTIM0002         26-10-90     1.67   1.673  -47.22
+TTIM0004         21-11-90     1.73   1.694  -47.34
+TTIM0003         21-11-90     1.74   1.694  -47.37
+TTIM0006         8-01-91      1.74   1.714  -47.42
+TTIM0005         8-01-91      1.70   1.714  -47.27
+TTIM0007         6-05-91      1.75   1.718  -47.44
+TTIM0008         6-05-91      1.72   1.718  -47.55
+TTIM0009         2-06-91      1.87   1.711  -47.22
+TTIM0010         2-06-91      1.63   1.711  -47.45
+TTIM0011         1-09-91      1.72   1.680  -47.10
+TTIM0012         26-11-91     1.76   1.715  -47.06
+TTIM0013         26-11-91     1.75   1.715  -47.60
+TTIM0015         21-04-92     1.73   1.730  -47.17
+TTIM0014         21-04-92     1.47   1.730  -47.06
+TTIM0017         2-07-92      1.73   1.717  -47.40
+TTIM0016         23-07-92     1.76   1.707  -47.25
+TTIM0018         2-12-92      1.70   1.686  -47.27
+TTIM0020         14-02-93     1.76   1.723  -47.50
+TTIM0019         14-02-93     1.78   1.723  -47.37
+TTIM0021         13-03-93     1.71   1.736  -47.61
+TTIM0022         10-04-93     1.74   1.725  -47.22

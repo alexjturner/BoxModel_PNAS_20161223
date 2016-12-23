@@ -1,0 +1,165 @@
+Air samples collected at Cape Matatula, American Samoa.(14°S, 171°W)
+
+
+SIL ID #    Identification Number used at the Stable Isotope Lab, 
+             University of Washington.
+Date        Date that this sample was collected.
+CH4-SIL     Methane concentration (ppm) determined manometrically at SIL with 
+             precision of ± 2%, see Quay et al. (1).
+CH4-CMDL    Methane concentration (ppm) determined by gas chromatography by 
+             NOAA/CMDL laboratory with precsion of ±0.2%, see Dlugokencky et al. (2).
+Del 13C     Measured 13C/12C in per mil (0/00) units, where
+             del 13C(0/00) ={[(13C/12C)sample/(13C/12C)standard - 1]*1000}
+             and the standard is VPDB, see Quay et al. (1).
+             Del 13C (0/00) corrected for standard drift, see Quay et al. (1).
+
+
+
+SIL ID #     Date        CH4-SIL   CH4-CMDL  Del 13C
+TTOM0001    15-DEC-89       1.66      1.964  -47.34
+TTOM0002    28-DEC-89       1.64      1.634  -47.24
+TTOM0003    11-JAN-90       1.70      1.642  -47.21
+TTOM0004    27-JAN-90       1.66      1.626  -47.22
+TTOM0005    2-MAR-90        1.70      NaN    -47.15
+TTOM0008    29-MAR-90       1.65      NaN    -47.18
+TTOM0012    27-APR-90       1.63      1.638  -47.32
+TTOM0011    27-APR-90       1.66      1.638  -47.05
+TTOM0016    11-MAY-90       1.67      1.633  -47.30
+TTOM0015    11-MAY-90       1.70      1.633  -47.33
+TTOM0018    11-MAY-90       1.68      1.633  -47.29
+TTOM0013    25-MAY-90       1.64      1.640  -47.30
+TTOM0014    25-MAY-90       1.66      1.640  -47.16
+TTOM0017    7-JUN-90        1.64      1.646  -47.27
+TTOM0020    7-JUN-90        1.65      1.646  -47.24
+TTOM0019    7-JUN-90        1.63      1.646  -47.29
+TTOM0022    22-JUN-90       1.68      1.652  -47.18
+TTOM0021    22-JUN-90       1.61      1.652  -47.18
+TTOM0025    6-JUL-90        1.66      1.650  -47.41
+TTOM0023    6-JUL-90        1.66      1.650  -47.32
+TTOM0024    20-JUL-90       1.68      1.657  -47.28
+TTOM0027    2-AUG-90        1.67      1.665  -47.20
+TTOM0026    2-AUG-90        1.64      1.665  -47.06
+TTOM0029    16-AUG-90       1.69      1.656  -47.31
+TTOM0028    16-AUG-90       1.68      1.656  -47.27
+TTOM0033    30-AUG-90       1.68      1.664  -47.33
+TTOM0030    13-SEP-90       1.72      1.649  -47.25
+TTOM0031    28-SEP-90       1.66      1.662  -47.30
+TTOM0034    11-OCT-90       1.68      1.648  -47.24
+TTOM0035    30-OCT-90       1.66      1.647  -47.29
+TTOM0037    9-NOV-90        1.66      1.653  -47.20
+TTOM0036    9-NOV-90        1.65      1.653  -47.26
+TTOM0039    23-NOV-90       1.69      1.662  -47.25
+TTOM0038    23-NOV-90       1.68      1.662  -47.35
+TTOM0042    6-DEC-90        1.67      1.644  -47.32
+TTOM0041    6-DEC-90        1.67      1.644  -47.20
+TTOM0040    24-DEC-90       1.67      1.681  -47.48
+TTOM0043    4-JAN-91        1.67      1.680  -47.33
+TTOM0045    18-JAN-91       1.67      1.664  -47.60
+TTOM0046    12-FEB-91       1.64      1.651  -47.36
+TTOM0047    28-FEB-91       1.67      1.690  -47.33
+TTOM0048    14-MAR-91       1.64      1.650  -47.37
+TTOM0049    26-MAR-91       1.64      1.654  -47.32
+TTOM0050    9-APR-91        1.64      1.639  -47.41
+TTOM0053    4-JUN-91        1.70      1.654  -47.37
+TTOM0058    19-JUN-91       1.68      1.705  -47.37
+TTOM0056    10-JUL-91       1.68      1.685  -47.05
+TTOM0057    21-AUG-91       1.66      NaN    -47.23
+TTOM0060    23-SEP-91       1.68      1.679  -47.25
+TTOM0063    22-OCT-91       1.67      1.666  -47.03
+TTOM0066    19-NOV-91       1.69      1.664  -47.25
+TTOM0065    3-DEC-91        1.71      1.663  -47.30
+TTOM0064    3-DEC-91        1.68      1.663  -47.13
+TTOM0069    23-JAN-92       1.65      1.657  -47.35
+TTOM0072    10-MAR-92       1.79      1.697  -47.18
+TTOM0078    6-APR-92        1.67      1.651  -46.91
+TTOM0079    6-APR-92        1.72      1.651  -47.17
+TTOM0073    27-MAY-92       1.73      1.669  -47.36
+TTOM0072A   27-MAY-92       1.69      1.669  -47.52
+TTOM0075    6-JUL-92        1.72      1.674  -47.30
+TTOM0074    6-JUL-92        1.72      1.674  -47.29
+TTOM0076    27-JUL-92       1.77      1.674  -47.31
+TTOM0077    27-JUL-92       1.74      1.674  -47.38
+TTOM0081    25-AUG-92       1.68      1.675  -47.09
+TTOM0083    8-SEP-92        1.72      1.670  -47.44
+TTOM0082    8-SEP-92        1.60      1.670  -47.13
+TTOM0086    28-SEP-92       1.68      1.672  -47.24
+TTOM0085    28-SEP-92       1.73      1.672  -47.19
+TTOM0084    28-SEP-92       1.78      1.672  -47.10
+TTOM0087    16-NOV-92       1.72      1.665  -47.25
+TTOM0089    16-NOV-92       1.68      1.665  -46.95
+TTOM0088    16-NOV-92       1.75      1.665  -47.30
+TTOM0095    2-DEC-92        1.78      1.667  -47.27
+TTOM0094    2-DEC-92        1.71      1.667  -47.15
+TTOM0091    14-DEC-92       1.75      1.659  -47.15
+TTOM0090    14-DEC-92       1.70      1.659  -47.19
+TTOM0093    31-DEC-92       1.73      1.659  -47.12
+TTOM0099    14-JAN-93       1.70      1.668  -47.46
+TTOM0098    14-JAN-93       1.77      1.668  -47.29
+TTOM0100    4-FEB-93        1.71      1.683  -47.22
+TTOM0102    25-MAR-93       1.71      1.668  -47.29
+TTOM0101    25-MAR-93       1.78      1.668  -47.15
+TTOM0107    20-APR-93       1.72      1.671  -47.29
+TTOM0108    20-APR-93       1.76      1.671  -47.23
+TTOM0103    5-MAY-93        1.75      1.666  -47.17
+TTOM0106    31-MAY-93       1.72      1.666  -47.15
+TTOM0105    31-MAY-93       1.74      1.666  -47.11
+TTOM0109    21-JUN-93       1.74      NaN    -47.25
+TTOM0113    27-JUL-93       1.74      1.689  -47.39
+TTOM0112    27-JUL-93       1.73      1.689  -47.40
+TTOM0110    9-AUG-93        1.74      1.677  -47.29
+TTOM0111    9-AUG-93        1.75      1.677  -47.19
+TTOM0110A   18-AUG-93       1.72      NaN    -47.47
+TTOM0114    30-AUG-93       1.72      1.684  -47.39
+TTOM0118    26-OCT-93       1.77      1.673  -47.18
+TTOM0117    26-OCT-93       1.74      1.673  -47.12
+TTOM0126    9-NOV-93        1.77      NaN    -47.11
+TTOM0119    15-DEC-93       1.75      NaN    -47.11
+TTOM0120    15-DEC-93       1.75      NaN    -47.20
+TTOM0122    27-DEC-93       1.72      1.684  -46.94
+TTOM0121    27-DEC-93       1.76      1.684  -47.04
+TTOM0123    20-JAN-94       1.72      1.664  -47.29
+TTOM0124    20-JAN-94       1.76      1.664  -46.93
+TTOM0129    1-APR-94        1.73      NaN    -47.30
+TTOM0128    5-APR-94        1.78      NaN    -47.23
+TTOM0127    5-APR-94        1.77      NaN    -47.31
+TTOM0133    5-MAY-94        1.71      NaN    -47.15
+TTOM0132    5-MAY-94        1.72      NaN    -47.23
+TTOM0131    17-MAY-94       1.75      NaN    -47.19
+TTOM0130    17-MAY-94       1.76      NaN    -47.06
+TTOM0135    1-JUN-94        1.75      NaN    -47.25
+TTOM0134    1-JUN-94        1.79      NaN    -47.22
+TTOM0136    21-JUN-94       1.77      NaN    -47.28
+TTOM0149    27-JUL-94       1.79      NaN    -47.26
+TTOM0141    23-AUG-94       1.80      NaN    -47.33
+TTOM0142    15-SEP-94       1.71      NaN    -47.19
+TTOM0145    20-OCT-94       1.76      NaN    -47.18
+TTOM0146    20-OCT-94       1.77      NaN    -47.11
+TTOM0147    2-NOV-94        1.74      NaN    -47.17
+TTOM0148    23-NOV-94       1.78      NaN    -47.23
+TTOM0151    12-DEC-94       1.80      NaN    -47.14
+TTOM0155    22-FEB-95       1.75      NaN    -47.13
+TTOM0154    2-MAR-95        1.76      NaN    -47.06
+TTOM0157    22-MAR-95       1.79      NaN    -47.09
+TTOM0163    8-MAY-95        1.73      NaN    -47.11
+TTOM0162    8-MAY-95        1.84      NaN    -47.21
+TTOM0160    23-MAY-95       1.70      NaN    -47.29
+TTOM0159    23-MAY-95       1.73      NaN    -47.25
+TTOM0161    7-JUN-95        1.24      NaN    -47.17
+TTOM0165    5-JUL-95        1.74      NaN    -47.20
+TTOM0164    5-JUL-95        1.81      NaN    -47.26
+TTOM0167    21-JUL-95       1.53      NaN    -47.13
+TTOM0166    2-AUG-95        1.72      NaN    -47.14
+TTOM0169    29-AUG-95       1.64      NaN    -47.14
+TTOM0170    11-SEP-95       1.75      NaN    -47.01
+TTOM0171    8-NOV-95        1.74      NaN    -47.14
+TTOM0172    22-NOV-95       1.76      NaN    -47.42
+TTOM0173    26-DEC-95       1.72      NaN    -47.14
+TTOM0174    26-DEC-95       1.54      NaN    -47.12
+TTOM0175    8-JAN-96        1.73      NaN    -47.12
+TTOM0176    8-JAN-96        1.70      NaN    -47.10
+TTOM0177    24-JAN-96       1.71      NaN    -47.16
+TTOM0178    21-FEB-96       1.74      NaN    -47.36
+TTOM0179    21-FEB-96       1.68      NaN    -47.38
+TTOM0181    21-MAR-96       1.73      NaN    -47.40
+TTOM0182    21-MAR-96       1.70      NaN    -47.53
+TTOM0183    15-APR-96       1.71      NaN    -46.94

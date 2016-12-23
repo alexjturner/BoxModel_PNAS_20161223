@@ -1,0 +1,360 @@
+Aditional information on the measurements of CO, CO2, CH4, and associated carbon, 
+oxygen, and hydrogen isotopes is presented below for each of the three gases.
+                              
+Submitted by Stanley C. Tyler (949-824-2685, styler@uci.edu)
+
+Department of Earth System Science, University of California, 
+Irvine, CA  92697-3100
+
+DOI: 10.3334/CDIAC/atg.db1022
+_________________________________________________________________
+                              
+                          
+CO and associated 13C
+
+     At the same sites (Niwot Ridge, Colorado and Montaña de Oro, California) 
+where we collect air samples to analyze for CH4 data, we also measure CO mixing 
+ratios and 13CO isotope ratios (e.g., Tyler et al., 1999; DB1022, CDIAC archives). 
+Atmospheric CO mixing ratio measurements begin with the first dates of sample 
+collection at Niwot Ridge and Montaña de Oro while measurements of d13C -CO begin 
+in late 1999 (NWT) and early 2000 (MDO). Hydroxyl radicals (OH), the most 
+important oxidizing agent in the atmosphere, react with CO rather quickly, giving 
+a CO lifetime of the order of a few months, to produce CO2 [Levy, 1971; 
+Logan et al., 1981; Levine et al., 1985]. Thus, knowledge of the sources and
+sinks of tropospheric CO is vital to understanding and quantifying the distribution 
+of OH concentrations in the atmosphere. Admittedly, 14C and d18O-CO, which we do 
+not currently measure, provide at least as much information as the d13C -CO data. 
+However, the simultaneous measurements of CH4 and CO for mixing and 13C isotope ratio 
+(as well as CO2 data which we also collect) help us to screen samples for outliers 
+not representative of well-mixed background surface air.
+
+     Site descriptions, sample collection procedures, and most mixing ratio and 
+isotope ratio analytical techniques are described in our sample archives for atmospheric 
+CH4, appearing as the abstch4.txt file in the CDIAC DB1022 data base. Small differences 
+or additions relevant to the CO data are noted below.
+
+     Mixing ratios of CO are measured at UC Irvine a Shimadzu model 14A GC with a model 
+RGD2 reduction gas analyzer detector (Trace Analytical, Menlo Park, CA). The separation 
+column is 6 ft. (1/8" o.d.) of molecular sieve 5A at 80°C with a carrier gas of zero 
+air. The detector temperature is set at 275°C.
+
+     Our mixing ratio working standards for CH4, CO, and CO2 analyses are based on the 
+NOAA/CMDL reference scale for these gases and have been inter-compared with and calibrated
+to NOAA/CMDL reference standards [Lang et al., 1990; Novelli et al., 1991]. Our level of 
+precision for measurements of CO are ~±1-3 ppb for CO (1.0 to 2.0% uncertainty around
+133.5 ppb). At Niwot Ridge, where only one air sample is collected each date, the mixing 
+ratio uncertainty quoted is based  on the measurement precision. At Montaña de Oro, where 
+paired samples (or sometimes multiple pairs of samples) are routinely collected, the 
+measurement uncertainty quoted is the standard deviation of the average of 2 or more samples. 
+(Technically a true standard deviation requires a larger sample size, but our s.d.
+values give one a sense of the spread in the data from multiple samples.)
+
+      For d13CO analyses we used conventional dual inlet IRMS. In this method, air samples 
+are processed using a combustion vacuum line -- a necessary step to separate CH4, CO 
+and CO2 from other constituents of the air sample and to convert CH4 to CO2. For a 
+description of this procedure see Tyler  et al. [1999] and references therein. These samples
+are then measured on our Finnigan MAT model 252 IRMS instrument. Precision of measurement 
+on clean dry CO2 gas standards is ±0.01% for d13C and ±0.05% for d18O. The reproducibility 
+of d13C-CO measurements from ~200 liters each  of replicate air samples, when all possible 
+errors associated with differences in sample canisters, sample pumping, vacuum line 
+processing, and isotope measurement are taken into account, is ±0.20%. As for the mixing 
+ratio measurements, Niwot Ridge d13C-CO is quoted with an implied measurement error equal 
+to the overall reproducibility of the final value based on tests of multiple aliquots of the
+sample air sample, i.e. ±0.20%. Conversely, the uncertainty in d13C-CO values of 
+Montaña de Oro samples is quoted based on the standard deviation of the average of multiple
+samples, as it is for mixing ratio at MDO.
+_________________________________________________________________
+
+
+
+CO2 and associated 13C and 18O
+
+      At the same sites above where we collect air samples to analyze for CH4 and CO data, 
+we also measure CO2 mixing and d13C and d18O isotope ratios (e.g., Tyler et al., 1999; 
+DB1022, CDIAC archives).  Atmospheric CO2 measurements of mixing and stable isotope ratio 
+begin with January 1999 at both Niwot Ridge (NWT) and Montana de Oro while (MDO). 
+Measurements of d13C in atmospheric CO2 have long been used to help interpret the 
+global CO2 budget [e.g., Keeling, 1958 and 1961; Mook et al., 1983; Keeling et al., 1984; 
+Quay et al., 1992; Tans et al., 1993], while d18O measurements in atmospheric CO2 have 
+added an important component to the interpretation of CO2 fluxes more recently 
+[e.g., Ciais et al., 1997; Flanagan et al., 1997; Miller et al., 1999].
+
+      The d13C of atmospheric CO2 is an indicator of either plant photosynthesis or air-sea 
+exchange of CO2.  This is because terrestrial plants preferentially fix 12C in photosynthesis, 
+thereby leaving remaining CO2 relatively 13C heavy, while the dissolution and evaporation of 
+CO2 to and from ocean waters is practically non-fractionating isotopically.  In addition, the 
+burning of fossil fuel has significantly increased the CO2 content of the atmosphere, with a 
+corresponding decrease in the d13C signal toward more negative values.  On the other hand, 
+the d18O of atmospheric CO2 is a marker to constrain separately the gross uptake 
+(photosynthesis) and release (respiration) of carbon by terrestrial biota.  This is 
+because CO2 can exchange an 18O atom with two isotopically distinct reservoirs, i.e., 
+either evaporating leaf water during photosynthesis or soil moisture during respiration.  
+However, the simultaneous measurements of CH4 and CO for mixing and 13C isotope ratio 
+(as well as CO2 data which we also collect) help us to screen samples for outliers 
+not representative of well-mixed background surface air.
+
+      Site descriptions, sample collection procedures, and most mixing ratio and isotope 
+ratio analytical techniques have been described in our sample archives for atmospheric CH4 
+appearing in the CDIAC database.  Small differences or additions to these are noted below.
+
+      At UC Irvine, CO2 mixing ratios from canister and cylinder samples are measured using 
+a Hewlett Packard 5880A gas chromatograph (GC) with flame ionization detector (FID).  
+The CO2 column is 8 ft. (1/8" dia.) of HayeSep D at 80°C with a ruthenium methanizer 
+at 300°C.  The carrier gas is nitrogen and sample loading and injection is done with a 
+6 port valve and sample loop swept by the carrier stream.
+
+	Our mixing ratio working standards for CH4, CO, and CO2 analyses are based on the 
+NOAA/CMDL reference scale for these gases and have been inter-compared with and calibrated 
+to NOAA/CMDL reference standards [Lang et al., 1990; Novelli et al., 1991].  Our level of 
+precision for measurements of CO2 are ~±3-4 ppm (~1% uncertainty around 342 ppm).  
+At Niwot Ridge, where only one air sample is collected each date, the mixing ratio 
+uncertainty quoted is based on the measurement precision.  At Montana de Oro, where 
+paired samples (or sometimes multiple pairs of samples) are routinely collected, 
+the measurement uncertainty quoted is the standard deviation of the average of 2 
+or more samples.  (Technically a true standard deviation requires a larger sample 
+size, but our s. d. values give one a sense of the spread in the data from multiple 
+samples.)
+
+	For d13CO analyses we used conventional dual inlet IRMS.  In this method, 
+air samples are processed using a combustion vacuum line -- a necessary step to 
+separate CH4, CO and CO2 from other constituents of the air sample and to convert 
+CH4 to CO2.  For a description of this procedure see Tyler et al. [1999] and 
+references therein.  These samples are then measured on our Finnigan MAT model 
+252 isotope ratio mass spectrometer.  Precision of measurement on clean dry 
+CO2 gas standards is ±0.01% for d13C and ±0.05% for d18O.  The reproducibility 
+of d13C-CO2 measurements from ~200 liters each of replicate air samples, when 
+all possible errors associated with differences in sample canisters, sample 
+pumping, vacuum line processing, and isotope measurement are taken into account, 
+is ±0.05%.  Similar to the mixing ratio measurements, Niwot Ridge d13C-CO2 and 
+d18O-CO2 values are quoted with an implied measurement error equal to the 
+overall reproducibility of the final value based on tests of multiple aliquots 
+of the sample air sample, i.e. ±0.05% and ±0.20% respectively.  Conversely, 
+the uncertainty in d13C-CO2 and d18O-CO2 values of Montana de Oro samples is 
+quoted based on the standard deviation of the average of multiple samples, as 
+it is for mixing ratio at MDO.  Our delta values for atmospheric CO2 take into 
+account a small correction for the presence of atmospheric N2O (~10-3 relative 
+to CO2) which is trapped along with CO2 following the method of [Friedli and 
+Siegenthaler, 1988].
+
+      Our working CO2 isotope reference gas (NZME) on the dual inlet IRMS instrument 
+is CO2 obtained from NIWA in New Zealand with value of -47.61% (13C/12C) and -16.72 
+(18O/16O) versus v-PDB and v-PDB-CO2 respectively.  Another working gas purchased 
+from Oztech Gas Co. (Dallas, TX) with assigned values of -39.78% and -25.78% 
+versus v-PDB and v-PDB-CO2 respectively is routinely compared to it.  Both gases 
+have been inter-compared to two internationally recognized CO2 standards.  NBS-19 
+(CaCO3) and IAEA-CO-9 (BaCO3) which have established values of 1.95% and -47.12% 
+versus PDB, respectively, and values of -2.20% and -15.28% vs. v-PDB-CO2, 
+respectively [Stichler, 1995].  Versus our NZME reference, clean dry CO2 gas 
+standards made from these carbonates had measured values of 1.92% and -2.11% 
+for NBS-19 and -47.18% and -15.45% for IAEA-CO-9.
+_________________________________________________________________
+
+
+
+CH4 and associated 2H and 13C
+
+     We report mixing ratios and dD and d13C measurements of atmospheric CH4 from 
+air samples collected  bi-weekly from fixed surface sites in the United States. Our 
+fixed surface sites are located at the mid-continental site Niwot Ridge, CO 
+(41 degrees N, 105 degrees W) and a Pacific coastal site receiving strong westerlies,
+Montaña de Oro, CA (35 degrees N, 121 degrees W). Data from multiyear approximately 
+bi-weekly sampling provide information relating seasonal cycling of CH4 sources and
+sinks in background air, record long term trends in CH4 mixing and isotope ratio 
+related to the atmospheric CH4 loading, and may indicate regional CH4 sources. Our
+continuous record of CH4 mixing ratio and d13C-CH4 from Niwot Ridge extends from 
+1995 to 2001 while that of Montaña de Oro extends from 1996 to 2001. A more recently 
+initiated time series of measurements of dD-CH4 were begun during 1998 at Niwot Ridge 
+and during 2000 at Montaña de Oro. We are archiving these data to make them available 
+for modeling and advanced calculations by other atmospheric researchers. The air sample 
+collections continue to the present time. We will archive these data as soon as is 
+practicable in order to increase the value of the time series of measurements.
+                              
+     Niwot Ridge, Colorado is part of the continental divide for North America with 
+an altitude of approximately 3.75 km. The collection site itself is located at 
+latitude 40 degrees N and longitude 105 degrees W, about 4 km southeast of Niwot Ridge 
+at an altitude of approximately 3.15 km. It is situated on land owned by the Mountain 
+Research Station (MRS) of the University of Colorado and used as a Long Term Ecological
+Research site by the National Science Foundation. Our site is about 1 km northwest 
+of the MRS building and 40 km west of Boulder, Colorado. Air samples are collected at 
+the National Oceanic and Atmospheric Administration/Climate Monitoring and Diagnostics 
+Laboratory (NOAA/CMDL) compressor shed and tower located at the site. Wind patterns at 
+Niwot Ridge are dominated by westerlies (Barry [1973]; Haagenson [1979]) although at 
+times upslope flow from the south or southeast transports air from the Denver metropolitan 
+area (located about 70 km to the southeast) to the site [Hahn, 1981; Johnson and Toth, 
+1982]. In our study all samples were collected before noon in order to increase the 
+likelihood of sampling when the prevailing wind was from the west. Samples taken in this 
+manner have the best chance to represent well-mixed background air from over the western
+United States without interference from regional contamination.
+
+     Our second air sampling site is located along the coast of California in 
+Montaña de Oro State Park near San Luis Obispo (35 degrees N, 121 degrees W). This site 
+is protected from the city of San Luis Obispo by low lying foothills forming a ridge
+running parallel to the coast. The city of Morro Bay is northeast of the site, while the 
+Diablo Canyon nuclear power plant is about 2 km to the southeast. According to the 
+California Energy Commission [1985], which compiled measurements at two wind stations near 
+to the site, Diablo Canyon, CA (years 1967 to 1981) and Santa Maria, CA (years 1948 to 1978), 
+average annual wind speeds were about 16.1 and 12.7 km/hr, respectively, at the two stations.
+Additional data given for Santa Maria indicates that the months from March to June exhibited 
+the highest winds, although only 20% or so above the mean wind speed, while late afternoon 
+to early evening hours exhibited nearly twice the wind speed found for other times of 
+the day. Accordingly, our air samples from Montaña de Oro were collected in late afternoon 
+or early evening during periods when prevailing winds were from the west or northwest.
+                              
+       Sample Collection Procedures. Air samples were collected into either passivated 
+aluminum high pressure cylinders (Niwot Ridge, CO) or electro-polished 32-L stainless 
+steel canisters custom fabricated for our research group (Montaña de Oro, CA) 
+depending on the logistics dictated by the sampling system and shipping requirements.
+In either case, the samples were  pressurized using a compressor system which draws 
+air through clean tubing and into the  vessel after first passing through one or more
+drying tubes (magnesium perchlorate filled) located on the high pressure side of the 
+compressor. 793 liters (STP) of sample air was collected into the cylinders using a RIX
+model SA-3 compressor operated by our collaborators (Ed Dlugokencky and Duane Kitzis) 
+at NOAA/CMDL in Boulder, CO. Canisters were filled by members of our research group using
+a portable battery-operated piston pump (Model 415CDC30/12B, Thomas, Co., Sheboygan, WI). 
+Details of the sampling procedure, including compressor cleaning, cylinder and canister 
+conditioning, and drying tube preparation can be found in Tyler et al. [1999].
+      
+       Mixing Ratio Analytical Procedures. At UC Irvine, CH4 mixing ratios from canister 
+and cylinder samples were measured using a Hewlett Packard 5880A gas chromatograph (GC) 
+with a 10-port valve, sample loop, pre-column, separation column, and pre-column backflush. 
+The separation column was 5 ft. (1/8" o.d.) of molecular sieve 5A while the precolumn 
+was 1 ft. (1/8" o.d.) of the same material. Both columns were run at 100 degrees C.
+
+     Our mixing ratio working standards for CH4, CO, and CO2 analyses are based on the 
+NOAA/CMDL reference scale for these gases and have been inter-compared with and calibrated
+to NOAA/CMDL reference standards [Lang et al., 1990]. Our level of precision for 
+measurements of CH4 is +/-5 to 10 ppb for CH4 (0.25-0.50% uncertainty around 1903 ppb). 
+Relative to the NIST scale, atmospheric CH4 mixing ratios measured using the NOAA/CMDL 
+standards are 0.023 ppm lower.
+
+      Isotope Ratio Analytical Procedures. For d13C-CH4 analyses we used conventional 
+dual inlet IRMS. In this method, air samples are processed using a combustion vacuum
+line  --  a necessary step to separate CH4, CO and CO2 from other constituents of the 
+air sample and to convert CH4 to CO2. For a description of this procedure see Tyler et al.
+[1999] and references therein. These samples are then measured on our Finnigan MAT 
+model 252 IRMS instrument.
+
+      Precision  of measurement on clean dry CO2 gas standards is +/-0.01% for 
+d13C and +/-0.05% for d18O. The reproducibility of d13C measurements from ~200 liters 
+each of replicate air samples, when all possible errors associated with differences 
+in sample canisters, sample pumping, vacuum line processing, and isotope measurement 
+are taken into account, is +/-0.05% for d13C of CH4.
+
+     For dD-CH4 analyses we used our cf-GC/IRMS instrument (Finnigan Delta XL+) coupled 
+to our custom-designed CH4 gas preconcentrator [Rice et al., 2001]. A pyrolysis oven
+converts CH4 to H2 after its separation from the air stream and before its detection by 
+the mass spectrometer. Our precision of measurement is +/-1.3% for CH4 processed from 
+~63 ml of whole air.
+
+     Isotope Ratio Reference Gases. Our working CO2 isotope reference gas on the dual i
+nlet IRMS instrument is designated as NZME CO2 and was obtained from NIWA in New Zealand 
+with value of -47.61% (13C/12C) versus V-PDB. Another working gas purchased from Oztech 
+Gas Co. (Dallas, TX) with assigned value of -39.78% versus V-PDB is routinely compared 
+to it. Both gases have been inter-compared to two internationally recognized CO2 standards. 
+NBS-19 (CaCO3) and IAEA-CO-9 (BaCO3) which have established values of 1.95% and -47.12% 
+versus PDB and V-PDB-CO2, respectively [Stichler, 1995]. Versus our NZME reference, clean dry 
+CO2 gas standards made from these carbonates had measured values of 1.92% for NBS-19 
+and -47.18% for IAEA-CO-9.
+
+     On the cf-GC/IRMS, a working reference gas of pure of H2 from Oxygen Services Co. 
+(Costa Mesa, CA) wa  assigned its value by comparison to H2 gas purchased from Oztech Gas
+Co. with an assigned value of -165.3% versus V-SMOW. Our working gas standard for the 
+cf-GC/IRMS instrument was thus assigned a value of -169.4% for H2 versus V-SMOW.
+_________________________________________________________________
+
+   
+                         
+References
+     
+Barry, R. B., A climatological transect on the east slope of the front range, 
+Colorado, Arct. Alp. Res, 5, 89-110, 1973.
+
+Ciais, P., A. S. Denning, P. P. Tans, J. A. Berry, D. A. Randall, G. J. Collatz, 
+P. J. Sellers, J. W. C. White, M. Trolier, H. A. J. Meijer, R. J. Francey, 
+P. Monfray, and M. Heimann, A three-dimensional synthesis study of delta 18O in 
+atmospheric CO2 1. Surface fluxes, J. Geophys. Res., 102, 5857-5872, 1997.
+
+California  Energy Commission, Wind Atlas, prepared by the California Department 
+of Water Resources, contract No. P500-82-002, April, 1985.
+
+Flanagan, L. B., J. R. Brooks, G. T. Varney, and J. R. Ehleringer, Discrimination 
+against C18O16O during photosynthesis and the oxygen isotope ratio of respired CO2 
+in boreal forest ecosystems, Global Biogeochem. Cycles, 11, 83-98, 1997.
+
+Friedli, H., and U. Siegenthaler, Influence of N2O on isotopic analyses in CO2 and 
+mass-spectrometric determination of N2O in air samples, Tellus, 40B, 129-133, 1888.
+
+Haagenson, P. L., Meteorological and climatological factors affecting Denver air 
+quality, Atmos. Environ.,  13,  79-85, 1979.
+
+Hahn,  C.  J., A study of the diurnal behavior of boundary-layer winds at the 
+Boulder Atmospheric Observatory, Boundary-Layer Meteorol., 21, 231-245, 1981.
+
+Johnson,  R. H., and J. J. Toth, A climatology of the July 1981 surface flow over 
+northeast Colorado, Atmos. Sci. Pap. 342,  Dep. Atmos. Sci., Colo. State  Univ., 
+Ft.  Collins, Colo., 1982.
+
+Keeling, C. D., The concentration and isotopic abundances of atmospheric carbon 
+dioxide in rural areas, Geochim. Cosmochim. Acta, 13, 322-334, 1958.
+
+Keeling, C. D., A mechanism for cyclic enrichment of carbon-12 by terrestrial plants, 
+Geochim. Cosmochim. Acta, 24, 299-313, 1961.
+
+Keeling, C. D., A. F. Carter, and W. G. Mook, Seasonal, latitudinal, and secular 
+variations in the abundance and isotopic ratios of atmospheric carbon dioxide 2. 
+Results from oceanographic cruises in the tropical Pacific Ocean, 
+J. Geophys. Res., 89, 4615-4628, 1984.
+
+Lang  P.  M.,  Steele L. P., and Martin R.  C.,  Atmospheric methane data for 
+the period 1986-1988 from the NOAA/CMDL global cooperative flask sampling network, 
+in NOAA Technical Memorandum ERL CMDL-2, University of Colorado, Boulder, Colorado, 1990.
+
+Levine,  J.  S.,  C.  P.  Rinsland, and G. M.  Tenille,  The photochemistry of 
+methane and carbon monoxide in the troposphere in 1950 and 1985, Nature, 318, 254-257, 1985.
+
+Levy,   H.,  II,  Normal atmosphere: Large radical and formaldehyde concentrations 
+predicted,  Science,  173, 141-143, 1971.
+
+Logan, J. A., M. J. Prather, S. C. Wofsy, and M. B. McElroy, Tropospheric chemistry: a 
+global perspective,   J. Geophys. Res., 99, 16913-16925, 1981.
+
+Miller, J. B., D. Yakir, J. W. C. White, and P. P. Tans, Measurement of 
+18O/16O in the soil-atmosphere CO2 flux, Global Biogeochem. Cycles, 13, 761-774, 1999.
+
+Mook, W. G., M. Koopmans, A. F. Carter, and C. D. Keeling, Seasonal, latitudinal, 
+and secular variations in the abundance and isotopic ratios of atmospheric carbon 
+dioxide 1. Results from land stations, J. Geophys. Res., 88, 10915-10933, 1983.
+
+Novelli, P. C., J. W. Elkins, and L. P. Steele, The  development and evaluation of 
+a gravimetric reference scale for measurements of  atmospheric carbon monoxide, 
+J. Geophys. Res., 96, 13109-13121, 1991.
+
+Quay, P. D., B. Tilbrook, and C. S. Wong, Oceanic uptake of fossil fuel CO2: carbon-13 
+evidence, Science, 256, 74-79, 1992.
+
+Rice, A. L., A. A. Gotoh, H. O. Ajie, and S. C. Tyler. High precision continuous flow 
+measurement of d13C and dD of Atmospheric CH4.  Anal. Chem., 73, 4104-4110, 2001.
+
+Stichler, W. Interlaboratory comparison of new materials for carbon and oxygen isotope 
+ratio measurements, in Reference and Intercomparison Materials for Stable Isotopes
+of Light Elements, IAEA-TECDOC-825, pp. 67-74, International Atomic Energy Agency, 
+Vienna, Austria, 1995.
+
+Stichler, W. 1995.  Interlaboratory comparison of new materials for carbon and oxygen 
+isotope ratio measurements, in Reference and Intercomparison Materials for Stable
+Isotopes of Light Elements, IAEA-TECDOC-825, pp. 67-74, International Atomic Energy 
+Agency, Vienna, Austria.
+
+Tans, P. P., J. A. Berry, and R. F. Keeling, Oceanic 13C/12C observations: a new 
+window on ocean CO2 uptake, Global Biogeochem. Cycles, 2, 353-368, 1993.
+
+Tyler, S. C., H. O. Ajie, M. L. Gupta, R. J. Cicerone, D. R. Blake, and E. J. Dlugokencky. 
+Carbon isotopic composition of atmospheric methane: A comparison of surface level and 
+upper tropospheric air.  J. Geophys. Res., 104, 13895-13910, 1999.
+
+
+
+
+
+
+     

@@ -1,0 +1,82 @@
+Air samples collected at Baring Head, New Zealand.(41S,177E)
+
+
+SIL ID #   Identification Number used at the Stable Isotope Lab, 
+            University of Washington.
+Date       Date that this sample was collected.
+CH4-SIL    Methane concentration (ppm) determined manometrically at SIL with 
+	    precision of ± 2%, see Quay et al. (1).
+CH4-NIWAR  Methane concentration (ppm) determined by gas chromatography by 
+	    NIWAR, see Lowe et al. (2).
+Del 13C    Measured 13C/12C in per mil (0/00) units, where
+            del 13C(0/00) ={[(13C/12C)sample/(13C/12C)standard - 1]*1000}
+            and the standard is VPDB, see Quay et al. (1).
+            Del 13C (0/00) corrected for standard drift, see Quay et al. (1).
+
+
+
+SIL ID #    Date       CH4-SIL CH4-NIWAR Del 13C
+TTZM0001   25-FEB-91     1.58    1.660   -47.02
+TTZM0003   25-FEB-91     1.59    1.660   -46.95
+TTZM0002   25-FEB-91     1.57    1.660   -47.27
+TTZM0005   4-MAR-91      1.62    1.669   -47.48
+TTZM0004   4-MAR-91      1.63    1.669   -47.30
+TTZM0007   20-JUN-91     1.63    1.683   -47.09
+TTZM0010   26-AUG-91     1.65    1.707   -47.36
+TTZM0009   26-AUG-91     1.64    1.707   -47.35
+TTZM0012   7-SEP-91      1.69    1.704   -47.12
+TTZM0011   7-SEP-91      1.66    1.704   -47.22
+TTZM0013   24-OCT-91     1.65    1.697   -47.42
+TTZM0015   24-OCT-91     1.72    1.697   -47.40
+TTZM0016   24-OCT-91     1.65    1.697   -47.42
+TTZM0014   24-OCT-91     1.63    1.697   -47.23
+TTZM0023   29-NOV-91     1.74    1.691   -47.24
+TTZM0021   29-NOV-91     1.73    1.691   -47.31
+TTZM0020   29-NOV-91     1.74    1.691   -47.31
+TTZM0022   29-NOV-91     1.69    1.691   -47.39
+TTZM0018   28-FEB-92     1.69    1.678   -46.93
+TTZM0017   28-FEB-92     1.68    1.678   -46.98
+TTZM0024   7-MAY-92      1.73    1.684   -47.26
+TTZM0026   7-MAY-92      1.71    1.684   -47.41
+TTZM0027   7-MAY-92      1.68    1.684   -47.43
+TTZM0028   22-MAY-92     1.69    1.689   -47.17
+TTZM0030   22-MAY-92     1.69    1.689   -46.99
+TTZM0029   22-MAY-92     1.69    1.689   -47.10
+TTZM0033   15-JUL-92     1.66    1.705   -47.33
+TTZM0031   15-JUL-92     1.70    1.705   -47.22
+TTZM0034   29-AUG-92     1.75    1.707   -47.33
+TTZM0035   29-AUG-92     1.70    1.707   -47.02
+TTZM0036   29-AUG-92     1.69    1.707   -47.22
+TTZM0037   29-AUG-92     1.69    1.707   -47.25
+TTZM0039   16-SEP-92     1.69    1.704   -47.29
+TTZM0040   16-SEP-92     1.72    1.704   -47.32
+TTZM0038   16-SEP-92     1.73    1.704   -47.29
+TTZM0042   10-DEC-92     1.66    1.694   -47.26
+TTZM0041   10-DEC-92     1.70    1.694   -47.14
+TTZM0044   10-DEC-92     1.68    1.694   -47.30
+TTZM0043   10-DEC-92     1.68    1.694   -47.14
+TTZM0047   13-JAN-93     1.70    1.684   -47.17
+TTZM0045   13-JAN-93     1.72    1.684   -47.25
+TTZM0046   13-JAN-93     1.67    1.684   -47.23
+TTZM0049   15-FEB-93     1.66    1.676   -47.24
+TTZM0047A  15-FEB-93     1.66    1.676   -47.07
+TTZM0048   15-FEB-93     1.70    1.676   -47.26
+TTZM0051   7-MAY-93      1.70    NaN     -47.24
+TTZM0050   7-MAY-93      1.74    NaN     -47.28
+TTZM0056   30-JUL-93     1.69    NaN     -47.33
+TTZM0055   30-JUL-93     1.71    NaN     -47.30
+TTZM0057   30-JUL-93     1.70    NaN     -47.34
+TTZM0053   27-AUG-93     1.72    NaN     -47.21
+TTZM0052   27-AUG-93     1.71    NaN     -47.30
+TTZM0058   16-APR-94     1.72    1.688   -47.12
+TTZM0060   7-JUL-94      1.74    1.702   -47.35
+TTZM0059   15-NOV-94     1.72    1.711   -47.20
+TTZM0061   15-NOV-94     1.73    1.711   -47.27
+TTZM0060   15-NOV-94     1.73    1.711   -46.98
+TTZM0065   13-FEB-95     1.68    1.688   -47.20
+TTZM0064   13-FEB-95     1.70    1.688   -47.11
+TTZM0068   28-APR-95     1.70    1.695   -47.05
+TTZM0069   28-APR-95     1.70    1.695   -47.12
+TTZM0066   23-MAY-95     1.70    1.715   -47.20
+TTZM0070   2-AUG-95      1.76    1.689   -47.12
+TTZM0071   2-AUG-95      1.71    1.689   -46.89
